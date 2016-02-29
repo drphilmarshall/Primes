@@ -10,7 +10,7 @@ $ nosetests <Primes install directory>
 ## Demo
 
 ## People
-* [Jim Chiang](https://github.com/DarkEnergyScienceCollaboration/Primes/issues/new?body=@jchiang87) (SLAC)
+* [Jim Chiang](https://github.com/jchiang87/Primes/issues/new?body=@jchiang87) (SLAC)
 
 ## License, etc.
 
